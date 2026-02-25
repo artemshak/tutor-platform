@@ -145,3 +145,7 @@ uvicorn app.main:app --reload
 *Проект находится в стадии активной разработки. После запуска доступны ендпойнты (c фронтендом): /auth/login, superuser/create-teacher*
 
 ---
+
+<img width="1920" height="1002" alt="Снимок экрана от 2026-02-25 23-55-12" src="https://github.com/user-attachments/assets/24798a0b-8069-4856-8624-b789f9146ccd" />
+
+<img width="1920" height="1002" alt="Снимок экрана от 2026-02-25 23-57-38" src="https://github.com/user-attachments/assets/0f019517-5c11-41f7-85c4-dedc966dd4fc" />
